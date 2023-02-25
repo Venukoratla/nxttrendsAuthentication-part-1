@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.image {
+  height: 200px;
+  width: 200px;
+}
+
+.website-logo {
+  height: 30px;
+  width: 100px;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
